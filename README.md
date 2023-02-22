@@ -6,4 +6,4 @@ install openpyxl if it's not installed on your device<br />
 pip install openpyxl<br /><br />
 
 
-For the password hash, just create one manually, and copy paste it from the session file into the excel
+For the password hash, just create one manually, and copy paste it from the session file into the excel (it's actually created using 3DES and a random key)
